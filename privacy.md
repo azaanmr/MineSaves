@@ -11,7 +11,7 @@ This page is used to inform website visitors and app users regarding our policie
 ## 1. Information Collection and Use
 MineSaves is designed primarily as a **local-first utility**. We do **not** collect, store, transmit, or share any personally identifiable information (PII), gameplay data, or world files with external servers or third parties. All operations, including backing up and restoring Minecraft Bedrock worlds, are performed entirely on your local device.
 
-If you choose to use the in-app "Submit Feedback" feature, the app transmits basic, non-identifying diagnostic data (your device name, Android version, the issue category you selected, and a timestamp) to our secure database to help us improve the app and diagnose compatibility issues.
+If you choose to use the in-app "Submit Feedback" feature, the app transmits basic diagnostic data (your device name, Android version, the issue category you selected, and a timestamp) to our secure database to help us improve the app and diagnose compatibility issues. You may optionally provide an email address during submission, which will only be used to follow up on your specific issue and will never be shared or used for marketing. This feedback data also includes an anonymous, limited log of recent button clicks (up to the first 20 UI interactions in a session) and event milestones (e.g. "backup_started") solely to help us understand where users encounter confusion or get stuck.
 
 ## 2. Third-Party Services
 To support the development and maintenance of this free tool, we use third-party services that may collect information used to identify you:
